@@ -20,9 +20,12 @@ public class ProductController {
         int a = 10;
     }
 
-    public void justAAnotherFunction() {
+
+
+    public void newmethod() {
         int a = 10;
     }
+
 
     public void print(List<Product> products) {
 
