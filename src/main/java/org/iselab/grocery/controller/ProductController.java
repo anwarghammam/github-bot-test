@@ -20,6 +20,10 @@ public class ProductController {
         int a = 10;
     }
 
+    public void justAAnotherFunction() {
+        int a = 10;
+    }
+
     public void print(List<Product> products) {
 
         String template = "%-2s %4s %-7s %4s %-5s";
