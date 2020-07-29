@@ -12,6 +12,20 @@ public class ProductController {
 
     private ProductRepository productRepository;
 
+    private int a1;
+
+    private int a2;
+    private int a3;
+    private int a4;
+    private int a5;
+    private int a6;
+    private int a7;
+    private int a8;
+    private int a9;
+    private int a10;
+    private int a11;
+    private int a12;
+
     public ProductController() {
         this.productRepository = new ProductRepository();
     }
@@ -20,6 +34,22 @@ public class ProductController {
         int a = 10;
     }
 
+
+    public void justANewFunction1() {
+        int a = 10;
+    }
+
+    public void justANewFunction2() {
+        int a = 10;
+    }
+
+    public void justANewFunction3() {
+        int a = 10;
+    }
+
+    public void justANewFunction4() {
+        int a = 10;
+    }
 
 
     public void newmethod() {
