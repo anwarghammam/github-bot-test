@@ -1,3 +1,8 @@
+->RefactoringNumber->71441<-IncreaseMethodSecurity(org.iselab.grocery.domain.Product;;[];[setAmount])
+->RefactoringNumber->71451<-IncreaseMethodSecurity(org.iselab.grocery.domain.Product;;[];[setId])
+->RefactoringNumber->71515<-ExtractClass(org.iselab.grocery.domain.Product;Class_24;[id];[setName])
+->RefactoringNumber->71525<-DecreaseFieldSecurity(org.iselab.grocery.domain.Product;;[class_24];[])
+<-endRefactoring marker->
 package org.iselab.grocery.domain;
 
 import org.iselab.grocery.util.UUIDUtils;
