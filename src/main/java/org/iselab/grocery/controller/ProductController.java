@@ -1,3 +1,6 @@
+->RefactoringNumber->16011<-ExtractClass(org.iselab.grocery.controller.ProductController;Class_13;[a10];[addProduct|justANewFunction|justANewFunction2])
+->RefactoringNumber->16062<-ExtractSubClass(org.iselab.grocery.controller.ProductController;Class_38;[a11|a2|a6|a7];[justANewFunction|justANewFunction2|print|start])
+<-endRefactoring marker->
 package org.iselab.grocery.controller;
 
 import java.util.Arrays;
